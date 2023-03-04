@@ -1,0 +1,8 @@
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\bin\Debug\ejercicio.añobisiesto.exe.config
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\bin\Debug\ejercicio.añobisiesto.exe
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\bin\Debug\ejercicio.añobisiesto.pdb
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\obj\Debug\ejercicio.añobisiesto.csproj.AssemblyReference.cache
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\obj\Debug\ejercicio.añobisiesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\obj\Debug\ejercicio.añobisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\obj\Debug\ejercicio.añobisiesto.exe
+C:\Users\Yess\OneDrive - Universidad Mariano Gálvez\Escritorio\Examen\ejercicio.añobisiesto\ejercicio.añobisiesto\obj\Debug\ejercicio.añobisiesto.pdb
